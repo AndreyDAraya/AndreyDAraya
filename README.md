@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Andrey D' Araya</h1>
+  <h1>👋 Hi, I'm Andrey Araya</h1>
   
   [![GitHub followers](https://img.shields.io/github/followers/AndreyDAraya?label=Follow&style=social)](https://github.com/AndreyDAraya)
   ![Profile Views](https://komarev.com/ghpvc/?username=AndreyDAraya&color=brightgreen)
@@ -44,7 +44,8 @@ I'm a passionate software engineer from Costa Rica, focused on building scalable
 - 📱 Cross-Platform Development with Flutter
 - ⚛️ Modern Web Development (React, Astro)
 - 🏗️ Clean Architecture & SOLID Principles
-- 🔄 Microservices Architecture
+- 🔄 Microservices & MVC Architecture
+- 💻 Node.js Backend Development
 - 🤖 AI/ML Integration
 - 🚀 CI/CD & Test-Driven Development
 
@@ -70,15 +71,16 @@ A comprehensive template demonstrating clean architecture implementation in Flut
 - 🏗️ SOLID principles implementation
 - 🧪 Test-driven development examples
 
-### [Node.js Microservice](https://github.com/AndreyDAraya/microservice_node)
+### [Node.js MVC Microservice](https://github.com/AndreyDAraya/microservice_node)
 
 <img align="right" src="https://img.shields.io/github/stars/AndreyDAraya/microservice_node?style=social"/>
 
-A modern microservice implementation showcasing scalable architecture patterns.
+A modern microservice template implementing MVC architecture pattern with Node.js.
 
-- 📦 Advanced microservices patterns
-- 🔄 Inter-service communication
-- 🚀 Scalable and maintainable design
+- 📦 MVC architecture implementation
+- 🔄 Scalable microservices patterns
+- 🎯 Clean code structure and best practices
+- 🚀 Ready-to-use service template
 
 ## 📈 GitHub Activity & Stats
 
@@ -99,3 +101,4 @@ A modern microservice implementation showcasing scalable architecture patterns.
 ---
 
 ⭐️ From [AndreyDAraya](https://github.com/AndreyDAraya) | 🌎 Costa Rica
+🌐 Check out my portfolio: [andrey-d-araya.dev](https://andrey-d-araya.dev/)
